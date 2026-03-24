@@ -7,7 +7,7 @@ export default function Home() {
     {
       id: 1,
       name: 'Porsche 911 Carrera',
-      price: '$149,900',
+      price: '2,149,900 Ksh',
       image:
         'https://images.unsplash.com/photo-1503376780352-7e669f7b1883?w=400&h=300&fit=crop',
       year: '2024',
@@ -15,7 +15,7 @@ export default function Home() {
     {
       id: 2,
       name: 'Mercedes-Benz E-Class',
-      price: '$62,250',
+      price: '600,250 Ksh',
       image:
         'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&h=300&fit=crop',
       year: '2024',
@@ -23,7 +23,7 @@ export default function Home() {
     {
       id: 3,
       name: 'BMW M4 Competition',
-      price: '$84,300',
+      price: '8,455,300 Ksh',
       image:
         'https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=400&h=300&fit=crop',
       year: '2024',
