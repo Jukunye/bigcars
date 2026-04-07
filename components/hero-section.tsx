@@ -14,14 +14,14 @@ export function HeroSection() {
           className="object-cover object-center"
           priority
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-background/95 via-background/70 to-transparent" />
-        <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-background/30" />
+        <div className="absolute inset-0 bg-linear-to-r from-background/95 via-background/70 to-transparent" />
+        <div className="absolute inset-0 bg-linear-to-t from-background via-transparent to-background/30" />
       </div>
 
       {/* Content */}
       <div className="container mx-auto px-4 lg:px-8 relative z-10">
         <div className="max-w-2xl">
-          <p className="text-primary text-amber-500 font-medium tracking-widest uppercase text-sm mb-4">
+          <p className="text-amber-500 font-medium tracking-widest uppercase text-sm mb-4">
             Luxury Automotive Excellence
           </p>
           <h1 className="font-serif text-4xl sm:text-5xl lg:text-7xl font-bold text-foreground leading-tight mb-6 text-balance">
